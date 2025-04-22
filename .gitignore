@@ -1,0 +1,15 @@
+# Ignore large raster and satellite files
+*.tif
+*.tif.aux.xml
+*.tif.ovr
+*.dbf
+*.shp
+*.xml
+*.nc
+*.zip
+*.tar
+*.gz
+
+# Ignore Python caches and checkpoints
+__pycache__/
+.ipynb_checkpoints/
