@@ -9,7 +9,8 @@
 *.zip
 *.tar
 *.gz
-
+*.tiff
+.venv/
 # Ignore Python caches and checkpoints
 __pycache__/
 .ipynb_checkpoints/
